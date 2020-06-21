@@ -27,4 +27,4 @@ In addition, a recommendation engine was built based on similar idea and a diffe
 1. **movies_data_story_telling.ipynb:** The Jupyter notebook that contains the story telling format of Film.
 2. **movies_eda.ipynb:** The Jupyter notebook that contains the EDA and narrates the Story of Film.
 3. **movies_recommender_engine.ipynb:** The Jupyter notebook containing code for the recommendation engines
-4. **Movie Recommender Final Report.pdf:** The Final Report
+4. **movies_recommender_consolidated_report.pdf:** The Final Report
